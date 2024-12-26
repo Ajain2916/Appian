@@ -1,0 +1,8 @@
+ERROR:root:Error processing D:/Appian/Bank Statement\50.jpg: Unsupported image object
+INFO:root:Processing single file: D:\Appian\Bank Statement\1.jpg
+ERROR:root:Main execution error: list index out of range
+INFO:root:Processing single file: D:/Appian/Bank Statement/1.jpg
+ERROR:root:Main execution error: list index out of range
+INFO:root:Processing single file: D:\Appian\pdfs\CV.pdf
+ERROR:root:Error extracting text from D:\Appian\pdfs\CV.pdf: Unable to get page count. Is poppler installed and in PATH?
+WARNING:root:No text extracted from D:\Appian\pdfs\CV.pdf
