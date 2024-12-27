@@ -1,0 +1,7 @@
+Filename,Category,Summary,Names,Emails,Organizations,Locations,Monetary Values,Percentages,Tables Extracted
+sample_financial_report.pdf,LABEL_0,"financial report for the month: $123,456.78 Expenses: $98,765.43 Profit: $24,691.35 (20% increase from last month) outstanding debts: $12,345.67 Payment due date: January 15, 2025 Balance sheet (in USD) Assets 200,000 Liabilities 100,000 Equity 100,000 Page 1 .","John Doe
+Outstanding Debts",email: john.doe@example.com,"Financial Report - Sample
+
+Financial Report, ABC Corp
+
+Location:","New York, USA",,,1
